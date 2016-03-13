@@ -4,7 +4,6 @@ title: Android List Item Selector Tip
 description: somethimes we need only list item text color to be changed while selection, here is the tip
 category: blog
 ---
-##Android List Item Selector 
 
 In some situations, we need to use selector to change list item text color only, not the whole list item. The tip to do it is to inflate the layout from custome layout which has textview, then we can set selector for textview to change the color of the text while selection. One tip for this is to define state-activated rather than state-selected. 
 
