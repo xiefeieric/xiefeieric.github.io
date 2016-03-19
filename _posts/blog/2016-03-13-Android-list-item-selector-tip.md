@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android List Item Selector Tip
-description: somethimes we need only list item text color to be changed while selection, here is the tip
+description: Somethimes we need only list item text color to be changed while selection, here is the tip
 category: blog
 ---
 
