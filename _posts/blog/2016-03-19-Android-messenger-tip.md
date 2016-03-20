@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Tip: Messenger
+title: Android Tip - Messenger
 description: A very good tip to pass message between Activity and Service
 category: blog
 ---
@@ -11,7 +11,10 @@ It is very often we need to start a service in the background, for example, we s
 intent.putExtra("messenger",new Messenger(mHandler));
 ~~~
 
-You can find more detail from <a href="http://developer.android.com/reference/android/app/Service.html" target="_blank"> Google </a>.
+You can find more detail from [Google]
+
+[Google]: http://developer.android.com/reference/android/app/Service.html
+
 
 
 
