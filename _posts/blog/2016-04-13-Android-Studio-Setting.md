@@ -17,9 +17,9 @@ When I started a project in Android Studio, I always want to see line numbers, b
 
 #### Camel Code Selection
 By default, if we want to change variable name, Android Studio not support camel style selection.
-</br></br>
+
 <img src="http://www.jcodecraeer.com/uploads/20160411/1460361427386941.gif">
-</br></br>
+
 <img src="http://www.jcodecraeer.com/uploads/20160411/1460361428458589.gif">
 
 * File | Setting 
@@ -64,9 +64,14 @@ The recommended style for Log.
 * Click on Save As… to create a colour Scheme
 * Untick Use inherited attributes and change to following colours.
 
-Assert:	#AA66CC </br>
-Debug:	#33B5E5 </br>
-Error:	#FF4444 </br>
-Info:	#99CC00 </br>
-Verbose:	#FFFFFF </br>
-Warning:	#FFBB33 </br>
+Assert:#AA66CC
+ 
+Debug:	#33B5E5
+ 
+Error:	#FF4444 
+
+Info:	#99CC00 
+
+Verbose:	#FFFFFF 
+
+Warning:	#FFBB33 
