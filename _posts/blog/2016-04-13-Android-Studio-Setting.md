@@ -33,7 +33,7 @@ By default, if we want to change variable name, Android Studio not support camel
 <img src="http://www.jcodecraeer.com/uploads/20160411/1460361429261332.gif">
 
 * File / Setting 
-* Editor|Code Style|Java
+* Editor / Code Style / Java
 * Select Code Generation
 * Add 'm' for Field, and add 's' for Static field
 
@@ -46,7 +46,7 @@ By default, if we want to change variable name, Android Studio not support camel
 <img src="http://www.jcodecraeer.com/uploads/20160411/1460361430131728.gif">
 
 * File / Setting 
-* Editor / General/ Auto Import
+* Editor / General / Auto Import
 * Tick Optimize imports on the fly
 * Tick Add unambiguous imports on the fly
 
